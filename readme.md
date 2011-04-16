@@ -14,6 +14,18 @@ or copy and paste in to your favourite Javascript console.
 
 Change `var len = 5;` to get longer words.
 
+Examples
+--------
+
+ * roxott
+ * cedej
+ * duchiy
+ * gipitt
+ * rishiv
+ * togul
+
+From 6 consecutive runs. Not all golden, but enough to start with.
+
 License
 -------
 
