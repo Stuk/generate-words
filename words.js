@@ -15,7 +15,7 @@ for (var i = 0; i < len; i++) {
   else arr = consts
   is_vowel = !is_vowel;
 
-  word += arr[Math.round(Math.random()*arr.length-1)];
+  word += arr[Math.round(Math.random()*(arr.length-1))];
 }
 
 console.log(word);
