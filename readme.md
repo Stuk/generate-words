@@ -12,6 +12,8 @@ To run
 
 or copy and paste in to your favourite Javascript console.
 
+Change `var len = 5;` to get longer words.
+
 License
 -------
 
